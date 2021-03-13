@@ -824,7 +824,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [How Spotify Streams Music](https://labs.spotify.com/2018/08/31/smoother-streaming-with-bbr/)
 
 ## Organization
-* [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
+* [~~Engineering Levels at SoundCloud~~](https://developers.soundcloud.com/blog/engineering-levels)
 * [Engineering Roles at Palantir](https://medium.com/palantir/dev-versus-delta-demystifying-engineering-roles-at-palantir-ad44c2a6e87)
 * [Scaling Engineering Teams at Twitter](https://www.youtube.com/watch?v=-PXi_7Ld5kU)
 * [Scaling Decision-Making Across Teams at LinkedIn](https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering)
