@@ -768,7 +768,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Architecture of League of Legends Client Update](https://technology.riotgames.com/news/architecture-league-client-update)
 * [Architecture of Ad Platform at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html)
 * [Basic Architecture of Slack](https://slack.engineering/how-slack-built-shared-channels-8d42c895b19f)
-* [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+* [~~Back-end at LinkedIn~~](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [~~Back-end at Flickr~~](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
 * [Infrastructure (3 parts) at Zendesk](https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-3-foundation-team-forming-and-evolving-9859e40f5390)
 * [Cloud Infrastructure at Grubhub](https://bytes.grubhub.com/cloud-infrastructure-at-grubhub-94db998a898a)
