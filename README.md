@@ -448,7 +448,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [FlockDB: Distributed Graph Database at Twitter](https://blog.twitter.com/engineering/en_us/a/2010/introducing-flockdb.html)
 		* [TAO: Distributed Data Store for the Social Graph at Facebook](https://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/11730-atc13-bronson.pdf)
 		* [Akutan: Distributed Knowledge Graph Store at eBay](https://tech.ebayinc.com/engineering/akutan-a-distributed-knowledge-graph-store/)
-* [Time Series Databases](https://www.influxdata.com/time-series-database/)
+* [~~Time Series Databases~~](https://www.influxdata.com/time-series-database/)
 	* [Beringei: High-performance Time Series Storage Engine at Facebook](https://code.facebook.com/posts/952820474848503/beringei-a-high-performance-time-series-storage-engine/)
 	* [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)	
 	* [Atlas: In-memory Dimensional Time Series Database at Netflix](https://medium.com/netflix-techblog/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a)
