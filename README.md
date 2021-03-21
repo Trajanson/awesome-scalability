@@ -191,7 +191,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
     * [Airflow - Workflow Orchestration](https://airflow.apache.org/)
 		* [Airflow at Airbnb](https://medium.com/airbnb-engineering/airflow-a-workflow-management-platform-46318b977fd8)
 		* [Airflow at Pandora](https://engineering.pandora.com/apache-airflow-at-pandora-1d7a844d68ee)
-        * [Airflow at Robinhood](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8)
+        * [~~Airflow at Robinhood~~](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8)
         * [Airflow at Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff)
         * [Airflow at Drivy](https://drivy.engineering/airflow-architecture/)
 		* [Airflow at Grab](https://engineering.grab.com/experimentation-platform-data-pipeline)
