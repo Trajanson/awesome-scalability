@@ -311,7 +311,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [LogFeeder: Log Collection System at Yelp](https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html)
 	* [DBLog: Generic Change-Data-Capture Framework at Netflix](https://medium.com/netflix-techblog/dblog-a-generic-change-data-capture-framework-69351fb9099b)	
 * [Distributed Searching](http://nwds.cs.washington.edu/files/nwds/pdf/Distributed-WR.pdf)
-	* [Search Architecture at Instagram](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
+	* [~~Search Architecture at Instagram~~](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
 	* [Search Architecture at eBay](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-8.pdf)
 	* [Search Architecture at Box](https://medium.com/box-tech-blog/scaling-box-search-using-lumos-22d9e0cb4175)
 	* [Search Discovery Indexing Platform at Coupang](https://medium.com/coupang-tech/the-evolution-of-search-discovery-indexing-platform-fa43e41305f9)
