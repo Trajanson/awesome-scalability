@@ -436,7 +436,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 			* [Redshift at Hudl](https://www.hudl.com/bits/the-low-hanging-fruit-of-redshift-performance)
 			* [Redshift at Drivy](https://drivy.engineering/redshift_tips_ticks_part_1/)
 	* [Document Databases](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
-		* [eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
+		* [~~eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB~~](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
 		* [MongoDB at Baidu: Multi-Tenant Cluster Storing 200+ Billion Documents across 160 Shards](https://www.mongodb.com/blog/post/mongodb-at-baidu-powering-100-apps-across-600-nodes-at-pb-scale)
 		* [Migrating Mongo Data at Addepar](https://medium.com/build-addepar/migrating-mountains-of-mongo-data-63e530539952)
 		* [The AWS and MongoDB Infrastructure of Parse (acquired by Facebook)](https://medium.baqend.com/parse-is-gone-a-few-secrets-about-their-infrastructure-91b3ab2fcf71)
