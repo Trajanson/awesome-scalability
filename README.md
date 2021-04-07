@@ -143,7 +143,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Scaling Job Queue with Redis at Slack](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
 	* [Moving persistent data out of Redis at Github](https://githubengineering.com/moving-persistent-data-out-of-redis/)
 	* [Storing Hundreds of Millions of Simple Key-Value Pairs in Redis at Instagram](https://engineering.instagram.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c)
-	* [Redis at Trivago](http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/)
+	* [~~Redis at Trivago~~](http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/)
 	* [Optimizing Redis Storage at Deliveroo](https://deliveroo.engineering/2017/01/19/optimising-membership-queries.html)
 	* [Memory Optimization in Redis at Wattpad](http://engineering.wattpad.com/post/23244724794/store-more-stuff-memory-optimization-in-redis)
 	* [Redis Fleet at Heroku](https://blog.heroku.com/rolling-redis-fleet)
