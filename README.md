@@ -320,7 +320,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Indexing and Querying Telemetry Logs with Lucene at Palantir](https://medium.com/palantir/indexing-and-querying-telemetry-logs-with-lucene-234c5ce3e5f3)
 	* [Query Understanding at TripAdvisor](https://www.tripadvisor.com/engineering/query-understanding-at-tripadvisor/)
 	* [Search Federation Architecture at LinkedIn (2018)](https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin)
-	* [Search at Slack](https://slack.engineering/search-at-slack-431f8c80619e)
+	* [~~Search at Slack~~](https://slack.engineering/search-at-slack-431f8c80619e)
 	* [Search and Recommendations at DoorDash](https://blog.doordash.com/powering-search-recommendations-at-doordash-8310c5cfd88c)
 	* [Search Service at Twitter (2014)](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)
 	* [Autocomplete Search (2 parts) at Traveloka](https://medium.com/traveloka-engineering/high-quality-autocomplete-search-part-2-d5b15bb0dadf)
